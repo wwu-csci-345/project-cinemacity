@@ -1,7 +1,7 @@
 # CinemaCity — Student Starter Template
 
 > **CSCI 345 — Object-Oriented Design | Student Assignment**
-> See `assignment.md` for the full assignment instructions.
+> See the assignment document distributed on Canvas for the full instructions.
 
 ---
 
@@ -91,7 +91,6 @@ src/
 docs/
   ai-use-log-example.md  ← Model AI log (reference)
   ai-use-log.md          ← ★ YOUR AI USE LOG (create this)
-assignment.md             ← Full assignment specification
 ```
 
 ---
@@ -116,4 +115,4 @@ Write tests **before** or **alongside** implementing each class.
 
 ## AI Use Policy
 
-You may use AI assistants. You **must** document each substantive AI interaction in `docs/ai-use-log.md`. See `docs/ai-use-log-example.md` for the expected format and `assignment.md §9` for the full policy.
+You may use AI assistants. You **must** document each substantive AI interaction in `docs/ai-use-log.md`. See `docs/ai-use-log-example.md` for the expected format, and refer to the assignment document for the full policy.
